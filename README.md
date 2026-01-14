@@ -80,6 +80,7 @@ Python
 
 # The heart of the program
 word_frequency.update(re.findall(r'\b\w+\b', line.lower()))
+```
 <div align="center">
 
 🤝 CONNECT WITH ME
