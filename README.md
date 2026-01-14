@@ -53,7 +53,7 @@ Run the engine via terminal:
 Bash
 
 python analyzer.py
-```
+
 📊 STATISTICS PREVIEW
 Jab aap script run karenge, output is format mein display hoga:
 
@@ -81,7 +81,7 @@ Python
 
 # The heart of the program
 word_frequency.update(re.findall(r'\b\w+\b', line.lower()))
-
+```
 <div align="center">
 
 🤝 CONNECT WITH ME
